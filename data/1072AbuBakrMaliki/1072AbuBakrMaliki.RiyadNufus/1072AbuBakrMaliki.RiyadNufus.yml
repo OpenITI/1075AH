@@ -1,6 +1,8 @@
 00#BOOK#URI######: 1072AbuBakrMaliki.RiyadNufus
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Riyāḍ al-nufūs fī ṭabaqāt ʿulamāʾ al-qayrawān wa-ifriqiyyaŧ wazuhhādhum wa-nussākhum wa-siyyar min aḫbārihim wa-faḍāʾilihim wa-awṣāfihim
+10#BOOK#TITLEA#AR: Riyāḍ al-nufūs fī ṭabaqāt ʿulamāʾ al-qayrawān wa-
+    ifriqiyyaŧ wa-zuhhādhum wa-nussākhum wa-siyyar min aḫbārihim wa-
+    faḍāʾilihim wa-awṣāfihim
 10#BOOK#TITLEB#AR: Kitāb al-Riyāḍ
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
