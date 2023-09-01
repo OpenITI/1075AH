@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/WAQkzkz
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: The text contains many typoes (especially in numbers;
-    all final zeroes were for some reason deleted, PV restored them). The
-    annotation has not been completed, because the Shia version proved of
-    better quality.
+        all final zeroes were for some reason deleted, PV restored them). The
+        annotation has not been completed, because the Shia version proved of
+        better quality.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-20
-90#VERS#ISSUES###: TYPOS
+90#VERS#ISSUES###: TYPOS, PRIMARY_VERSION, CLEANED_VERSION

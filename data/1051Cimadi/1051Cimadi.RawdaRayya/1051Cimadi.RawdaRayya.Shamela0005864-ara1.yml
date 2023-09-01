@@ -3,9 +3,12 @@
 00#VERS#URI######: 1051Cimadi.RawdaRayya.Shamela0005864-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770845294
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770845294
-80#VERS#LINKS####:
-    https://archive.org/details/alfirdwsiy2018_gmail_0671_201808
+80#VERS#LINKS####: 
+        https://archive.org/details/alfirdwsiy2018_gmail_0671_201808
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good correspondence with no obvious errors.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-11-16
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
