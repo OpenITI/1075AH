@@ -1,6 +1,6 @@
 00#AUTH#URI######: 1061NajmDinGhazzi
 10#AUTH#ISM####AR: Muḥammad
-10#AUTH#KUNYA##AR:
+10#AUTH#KUNYA##AR: 
 10#AUTH#LAQAB##AR: Naǧm al-Dīn
 10#AUTH#NASAB##AR: b. Badr al-Dīn Muḥammad b. Raḍī al-Dīn Muḥammad b.
     Šihāb al-Dīn Aḥmad
@@ -15,6 +15,7 @@
 30#AUTH#DIED###AH: 1061-JU2-18 (X+ for unknown)
 40#AUTH#STUDENTS#: 1143CabdGhaniNabulusi
 40#AUTH#TEACHERS#: 1016MuhibbDinHamawi, 1004ShamsDinRamli
+70#AUTH#EXTID####: wikidata@Q1963394
 80#AUTH#BIBLIO###: https://ottomanhistorians.uchicago.edu/en/historian
     /al-gazzi
 90#AUTH#COMMENT##: a free running comment here; you can add as many
